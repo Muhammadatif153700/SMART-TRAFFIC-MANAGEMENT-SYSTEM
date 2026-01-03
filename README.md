@@ -52,5 +52,7 @@ All data is handled via **CSV files** for persistence and easy modification.
 ## Contact
 
 **developers:** Muhammad Atif and Abdul Haseeb
+**Email:** [swagger.haseeb999@gmail.com]
 **Email:** [ati.here15@gmail.com]
+
 
