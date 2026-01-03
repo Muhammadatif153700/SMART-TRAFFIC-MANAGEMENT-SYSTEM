@@ -54,8 +54,3 @@ All data is handled via **CSV files** for persistence and easy modification.
 **developers:** Muhammad Atif and Abdul Haseeb
 **Email:** [ati.here15@gmail.com]
 
----
-
-If you want, I can also **write the 300-character GitHub repo description** that goes in the “About” section so it looks professional.
-
-Do you want me to do that next?
